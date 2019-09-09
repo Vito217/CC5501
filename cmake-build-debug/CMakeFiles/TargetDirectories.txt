@@ -1,0 +1,3 @@
+C:/Users/VictorStefano/CLionProjects/CC5501/cmake-build-debug/CMakeFiles/TareaDosMallas.dir
+C:/Users/VictorStefano/CLionProjects/CC5501/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VictorStefano/CLionProjects/CC5501/cmake-build-debug/CMakeFiles/rebuild_cache.dir
